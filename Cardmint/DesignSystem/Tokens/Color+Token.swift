@@ -40,9 +40,9 @@ extension Color {
 
     // Point
     static let pointRed = Color(hex: 0xFF274B)
-    static let pointRedSub = Color(hex: 0xFFEEF1)
     static let pointYellow = Color(hex: 0xFFCC00)
-
+    static let pointRedSub = Color(hex: 0xFFEEF1)
+    
     // Social
     static let socialKakao = Color(hex: 0xFEE500)
     static let socialNaver = Color(hex: 0x03C75A)
