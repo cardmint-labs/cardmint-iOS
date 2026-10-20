@@ -12,7 +12,7 @@ import UIKit
 struct CardmintApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }

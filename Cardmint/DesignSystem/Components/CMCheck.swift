@@ -12,7 +12,7 @@ struct CMCheckbox: View {
 
     var body: some View {
         RoundedRectangle(cornerRadius: 6)
-            .fill(isSelected ? Color.brandPrimary : Color.white)
+            .fill(isSelected ? Color.brandSecondary : Color.white)
             .frame(width: 22, height: 22)
             .overlay {
                 if isSelected {
